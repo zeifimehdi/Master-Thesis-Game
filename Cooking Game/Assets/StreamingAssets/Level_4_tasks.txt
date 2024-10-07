@@ -1,0 +1,12 @@
+Fetch utensil from dishwasher
+Put utensils into dishwasher
+Get bowl from fridge
+Put bowl into fridge
+Steam vegetables
+Clean stoves
+Wipe kitchen counter
+Crack eggs
+Separate egg white from yolk
+Toss salad
+Drain water from noodle
+Drain water from rice
